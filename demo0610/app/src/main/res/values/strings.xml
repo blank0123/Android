@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">情急令</string>
+    <string name="remember">Remember</string>
+
+    <string name="other2">other2</string>
+    <string name="other1">other1</string>
+
+    <string name="autologin">Auto Login</string>
+    <string name="action_modify">Modify</string>
+    <string name="prompt_email">Email</string>
+
+
+    <string name="action_register">Register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="action_sign_in">Sign in</string>
+
+    <string name="prompt_usermname">Username:</string>
+    <string name="prompt_password">Password:</string>
+    <string name="prompt_realname">Real name:</string>
+    <string name="prompt_studentnum">Student ID:</string>
+    <string name="prompt_phonenumber">Phone number:</string>
+    <string name="prompt_major">Major:</string>
+    <string name="prompt_classname">Classname:</string>
+
+    <string name="map_btn">疫情地图</string>
+    <string name="srtting">Setting</string>
+    <string name="action_confirm">Confirm</string>
+    <string name="male">male</string>
+    <string name="female">female</string>
+    <string name="gender">Gender:</string>
+    <string name="prompt_resetPassword">Reset password</string>
+
+
+</resources>

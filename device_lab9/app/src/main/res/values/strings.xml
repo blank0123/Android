@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">device_lab9</string>
+    <string name="scan_text">将二维码/条形码放入框内, 即可自动扫描</string>
+
+</resources>

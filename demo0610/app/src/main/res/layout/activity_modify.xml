@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/modify_main"
+    >
+
+<!--    <LinearLayout-->
+<!--        android:id="@+id/linearLayout"-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="60dp"-->
+<!--        android:gravity="center"-->
+<!--        android:orientation="vertical"-->
+<!--        android:paddingLeft="@dimen/activity_horizontal_margin"-->
+<!--        android:paddingTop="@dimen/activity_vertical_margin"-->
+<!--        android:paddingRight="@dimen/activity_horizontal_margin"-->
+<!--        android:paddingBottom="@dimen/activity_vertical_margin"-->
+<!--        android:background="#D4FF27"-->
+<!--        android:theme="@style/ThemeOverlay.AppCompat.Dark"-->
+<!--        tools:ignore="MissingConstraints">-->
+
+<!--    </LinearLayout>-->
+<!--        android:fitsSystemWindows="true"-->
+<!--        app:layout_collapseMode="pin"-->
+
+<ScrollView
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:scrollbars="vertical"
+    android:fillViewport="true"
+    android:background="@mipmap/content_start"
+    tools:ignore="MissingConstraints">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="70dp"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginHorizontal="15dp">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="24dp"
+                android:background="@drawable/shape"
+                android:text="点击更换头像"/>
+
+            <ImageView
+                android:layout_width="90dp"
+                android:layout_height="90dp"
+                android:layout_marginStart="24dp"
+                android:id="@+id/midify_portrait"
+                android:background="@drawable/shape"
+                android:layout_gravity="center"
+                android:src="@drawable/sakura"
+                />
+
+        </LinearLayout>
+
+
+        <EditText
+            android:id="@+id/username"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/editText_high"
+            android:layout_marginStart="24dp"
+            android:layout_marginTop="@dimen/editText_marginTop"
+            android:layout_marginEnd="24dp"
+            android:hint="@string/prompt_usermname"
+
+            android:selectAllOnFocus="true"
+            android:background="@drawable/shape"
+            android:inputType="text"
+            android:lines="1"
+            android:maxLength="20"
+
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.0"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+
+
+        <EditText
+            android:id="@+id/password"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/editText_high"
+            android:layout_marginStart="24dp"
+            android:layout_marginTop="@dimen/editText_marginTop"
+            android:layout_marginEnd="24dp"
+
+            android:hint="@string/prompt_password"
+            android:imeActionLabel="@string/action_sign_in_short"
+            android:imeOptions="actionDone"
+            android:inputType="textPassword"
+            android:lines="1"
+            android:maxLength="20"
+
+            android:selectAllOnFocus="true"
+            android:background="@drawable/shape"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.0"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/username" />
+
+        <EditText
+            android:id="@+id/realname"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/editText_high"
+            android:layout_marginStart="24dp"
+            android:layout_marginTop="@dimen/editText_marginTop"
+            android:layout_marginEnd="24dp"
+
+            android:hint="@string/prompt_realname"
+            android:imeActionLabel="@string/action_sign_in_short"
+            android:imeOptions="actionDone"
+            android:selectAllOnFocus="true"
+            android:background="@drawable/shape"
+            android:inputType="text"
+            android:lines="1"
+            android:maxLength="20"
+
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.0"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/username" />
+
+        <EditText
+            android:id="@+id/studentnum"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/editText_high"
+            android:layout_marginStart="24dp"
+            android:layout_marginTop="@dimen/editText_marginTop"
+            android:layout_marginEnd="24dp"
+
+            android:hint="@string/prompt_studentnum"
+            android:imeActionLabel="@string/action_sign_in_short"
+            android:imeOptions="actionDone"
+            android:selectAllOnFocus="true"
+            android:background="@drawable/shape"
+            android:inputType="number"
+            android:lines="1"
+            android:maxLength="13"
+
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.0"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/username" />
+
+        <EditText
+            android:id="@+id/phonenum"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/editText_high"
+            android:layout_marginStart="24dp"
+            android:layout_marginTop="@dimen/editText_marginTop"
+            android:layout_marginEnd="24dp"
+
+            android:hint="@string/prompt_phonenumber"
+            android:imeActionLabel="@string/action_sign_in_short"
+            android:imeOptions="actionDone"
+            android:selectAllOnFocus="true"
+            android:background="@drawable/shape"
+            android:inputType="number"
+            android:lines="1"
+            android:maxLength="11"
+
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.0"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/username" />
+
+        <EditText
+            android:id="@+id/major"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/editText_high"
+            android:layout_marginStart="24dp"
+            android:layout_marginTop="@dimen/editText_marginTop"
+            android:layout_marginEnd="24dp"
+            android:hint="@string/prompt_major"
+            android:imeActionLabel="@string/action_sign_in_short"
+            android:imeOptions="actionDone"
+            android:selectAllOnFocus="true"
+            android:background="@drawable/shape"
+            android:inputType="text"
+            android:lines="1"
+            android:maxLength="20"
+
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.0"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/username" />
+
+        <EditText
+            android:id="@+id/classname"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/editText_high"
+            android:layout_marginStart="24dp"
+            android:layout_marginTop="@dimen/editText_marginTop"
+            android:layout_marginEnd="24dp"
+            android:hint="@string/prompt_classname"
+            android:imeActionLabel="@string/action_sign_in_short"
+            android:imeOptions="actionDone"
+            android:selectAllOnFocus="true"
+            android:background="@drawable/shape"
+            android:inputType="text"
+            android:lines="1"
+            android:maxLength="20"
+
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.0"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/username" />
+        <RadioGroup
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+
+            android:layout_marginTop="10dp"
+            android:layout_marginEnd="24dp"
+            android:orientation="horizontal"
+            android:layout_marginStart="24dp"
+            android:id="@+id/gender">
+
+            <RadioButton
+                android:id="@+id/radio0"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:checked="true"
+                android:background="@drawable/shape"
+                android:text="@string/male" />
+
+            <RadioButton
+                android:id="@+id/radio1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="20dp"
+                android:background="@drawable/shape"
+                android:text="@string/female" />
+
+        </RadioGroup>
+
+        <Button
+            android:id="@+id/confirm"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_gravity="start"
+            android:layout_marginStart="32dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginEnd="32dp"
+            android:layout_marginBottom="64dp"
+            android:enabled="false"
+            android:text="@string/action_confirm"
+            android:background="@drawable/shape"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.96"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/password"
+            app:layout_constraintVertical_bias="0.306" />
+
+    </LinearLayout>
+</ScrollView>
+
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#ECEDE8"
+
+        tools:ignore="MissingConstraints" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

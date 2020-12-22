@@ -1,0 +1,30 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+<!--背景 <item name="android:windowBackground">@drawable/layer_splash</item>-->
+    </style>
+    <style name="statubarTheme" parent="AppTheme"></style>
+
+    <style name="SplashAppTheme" parent="AppTheme">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:windowBackground">@drawable/layer_splash</item>
+    </style>
+
+    <style name="FragmentTheme" parent="AppTheme">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowFullscreen">true</item>
+    </style>
+
+
+</resources>
+
+
+
+<!--        <item name="windowActionBar">false</item>-->
+<!--        <item name="android:windowNoTitle">true</item>-->
