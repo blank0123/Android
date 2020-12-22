@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">housing_loan</string>
+    <string name="login_password">密码登陆</string>
+    <string name="login_Verification_Code">验证码登陆</string>
+</resources>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="user">
+        <item>个人用户</item>
+        <item>企业用户</item>
+    </string-array>
+
+    <string-array name="loan_term">
+        <item>1年（12期）</item>
+        <item>2年（24期）</item>
+        <item>3年（36期）</item>
+        <item>4年（48期）</item>
+        <item>5年（60期）</item>
+        <item>6年（72期）</item>
+        <item>7年（84期）</item>
+        <item>8年（96期）</item>
+        <item>9年（108期）</item>
+        <item>10年（120期）</item>
+        <item>11年（132期）</item>
+        <item>12年（144期）</item>
+        <item>13年（156期）</item>
+        <item>14年（168期）</item>
+        <item>15年（180期）</item>
+        <item>16年（192期）</item>
+        <item>17年（204期）</item>
+        <item>18年（216期）</item>
+        <item>19年（228期）</item>
+        <item>20年（240期）</item>
+        <item>25年（300期）</item>
+        <item>30年（360期）</item>
+    </string-array>
+
+
+    <string-array name="benchmark_interest_rate">
+<!--        <item>2020年10月1日基准利率</item>-->
+        <item>2020年10月1日利率下限（7折）</item>
+        <item>2020年10月1日利率下限（85折）</item>
+        <item>2020年10月1日利率上限（1.1倍）</item>
+        <item>2020年10月1日利率上限（1.2倍）</item>
+        <item>2020年10月1日利率上限（1.3倍）</item>
+    </string-array>
+</resources>
