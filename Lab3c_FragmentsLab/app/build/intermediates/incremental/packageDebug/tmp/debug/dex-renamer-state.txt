@@ -1,0 +1,4 @@
+#Tue Apr 21 16:42:05 CST 2020
+base.0=C\:\\Users\\15890\\AndroidStudioProjects\\Lab3c_FragmentsLab\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

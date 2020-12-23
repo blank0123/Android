@@ -1,0 +1,4 @@
+#Fri Apr 24 17:02:51 CST 2020
+base.0=C\:\\Users\\15890\\AndroidStudioProjects\\Lab4_UILabs\\app\\build\\intermediates\\dex\\debugAndroidTest\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

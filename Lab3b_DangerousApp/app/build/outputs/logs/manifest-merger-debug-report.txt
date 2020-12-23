@@ -1,0 +1,79 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\15890\AndroidStudioProjects\Lab3b_DangerousApp\app\src\main\AndroidManifest.xml:2:1-54:12
+INJECTED from C:\Users\15890\AndroidStudioProjects\Lab3b_DangerousApp\app\src\main\AndroidManifest.xml:2:1-54:12
+INJECTED from C:\Users\15890\AndroidStudioProjects\Lab3b_DangerousApp\app\src\main\AndroidManifest.xml:2:1-54:12
+INJECTED from C:\Users\15890\AndroidStudioProjects\Lab3b_DangerousApp\app\src\main\AndroidManifest.xml:2:1-54:12
+INJECTED from C:\Users\15890\AndroidStudioProjects\Lab3b_DangerousApp\app\src\main\AndroidManifest.xml:2:1-54:12
+INJECTED from C:\Users\15890\AndroidStudioProjects\Lab3b_DangerousApp\app\src\main\AndroidManifest.xml:2:1-54:12
+INJECTED from C:\Users\15890\AndroidStudioProjects\Lab3b_DangerousApp\app\src\main\AndroidManifest.xml:2:1-54:12
+	package
+		ADDED from C:\Users\15890\AndroidStudioProjects\Lab3b_DangerousApp\app\src\main\AndroidManifest.xml:3:5-39
+		INJECTED from C:\Users\15890\AndroidStudioProjects\Lab3b_DangerousApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\15890\AndroidStudioProjects\Lab3b_DangerousApp\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\15890\AndroidStudioProjects\Lab3b_DangerousApp\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from C:\Users\15890\AndroidStudioProjects\Lab3b_DangerousApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\15890\AndroidStudioProjects\Lab3b_DangerousApp\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\15890\AndroidStudioProjects\Lab3b_DangerousApp\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from C:\Users\15890\AndroidStudioProjects\Lab3b_DangerousApp\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from C:\Users\15890\AndroidStudioProjects\Lab3b_DangerousApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\15890\AndroidStudioProjects\Lab3b_DangerousApp\app\src\main\AndroidManifest.xml
+uses-sdk
+ADDED from C:\Users\15890\AndroidStudioProjects\Lab3b_DangerousApp\app\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from C:\Users\15890\AndroidStudioProjects\Lab3b_DangerousApp\app\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from C:\Users\15890\AndroidStudioProjects\Lab3b_DangerousApp\app\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from C:\Users\15890\AndroidStudioProjects\Lab3b_DangerousApp\app\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from C:\Users\15890\AndroidStudioProjects\Lab3b_DangerousApp\app\src\main\AndroidManifest.xml:7:5-9:41
+	android:targetSdkVersion
+		ADDED from C:\Users\15890\AndroidStudioProjects\Lab3b_DangerousApp\app\src\main\AndroidManifest.xml:9:9-38
+		INJECTED from C:\Users\15890\AndroidStudioProjects\Lab3b_DangerousApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\15890\AndroidStudioProjects\Lab3b_DangerousApp\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from C:\Users\15890\AndroidStudioProjects\Lab3b_DangerousApp\app\src\main\AndroidManifest.xml:8:9-35
+		INJECTED from C:\Users\15890\AndroidStudioProjects\Lab3b_DangerousApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\15890\AndroidStudioProjects\Lab3b_DangerousApp\app\src\main\AndroidManifest.xml
+permission#course.labs.permissions.DANGEROUS_ACTIVITY_PERM
+ADDED from C:\Users\15890\AndroidStudioProjects\Lab3b_DangerousApp\app\src\main\AndroidManifest.xml:17:5-18:47
+	android:protectionLevel
+		ADDED from C:\Users\15890\AndroidStudioProjects\Lab3b_DangerousApp\app\src\main\AndroidManifest.xml:18:9-44
+	android:name
+		ADDED from C:\Users\15890\AndroidStudioProjects\Lab3b_DangerousApp\app\src\main\AndroidManifest.xml:17:17-79
+application
+ADDED from C:\Users\15890\AndroidStudioProjects\Lab3b_DangerousApp\app\src\main\AndroidManifest.xml:20:5-52:19
+	android:label
+		ADDED from C:\Users\15890\AndroidStudioProjects\Lab3b_DangerousApp\app\src\main\AndroidManifest.xml:23:9-41
+	android:icon
+		ADDED from C:\Users\15890\AndroidStudioProjects\Lab3b_DangerousApp\app\src\main\AndroidManifest.xml:22:9-45
+	android:allowBackup
+		ADDED from C:\Users\15890\AndroidStudioProjects\Lab3b_DangerousApp\app\src\main\AndroidManifest.xml:21:9-35
+	android:theme
+		ADDED from C:\Users\15890\AndroidStudioProjects\Lab3b_DangerousApp\app\src\main\AndroidManifest.xml:24:9-40
+activity#course.labs.dangerousapp.DangerousActivity
+ADDED from C:\Users\15890\AndroidStudioProjects\Lab3b_DangerousApp\app\src\main\AndroidManifest.xml:28:9-51:20
+	android:label
+		ADDED from C:\Users\15890\AndroidStudioProjects\Lab3b_DangerousApp\app\src\main\AndroidManifest.xml:30:13-45
+	android:name
+		ADDED from C:\Users\15890\AndroidStudioProjects\Lab3b_DangerousApp\app\src\main\AndroidManifest.xml:29:13-46
+intent-filter#action:name:android.intent.action.MAIN+action:name:course.labs.permissions.DANGEROUS_ACTIVITY+category:name:android.intent.category.DEFAULT+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\15890\AndroidStudioProjects\Lab3b_DangerousApp\app\src\main\AndroidManifest.xml:37:13-44:29
+action#course.labs.permissions.DANGEROUS_ACTIVITY
+ADDED from C:\Users\15890\AndroidStudioProjects\Lab3b_DangerousApp\app\src\main\AndroidManifest.xml:38:17-85
+	android:name
+		ADDED from C:\Users\15890\AndroidStudioProjects\Lab3b_DangerousApp\app\src\main\AndroidManifest.xml:38:25-82
+category#android.intent.category.DEFAULT
+ADDED from C:\Users\15890\AndroidStudioProjects\Lab3b_DangerousApp\app\src\main\AndroidManifest.xml:40:17-76
+	android:name
+		ADDED from C:\Users\15890\AndroidStudioProjects\Lab3b_DangerousApp\app\src\main\AndroidManifest.xml:40:27-73
+action#android.intent.action.MAIN
+ADDED from C:\Users\15890\AndroidStudioProjects\Lab3b_DangerousApp\app\src\main\AndroidManifest.xml:41:17-69
+	android:name
+		ADDED from C:\Users\15890\AndroidStudioProjects\Lab3b_DangerousApp\app\src\main\AndroidManifest.xml:41:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\15890\AndroidStudioProjects\Lab3b_DangerousApp\app\src\main\AndroidManifest.xml:43:17-77
+	android:name
+		ADDED from C:\Users\15890\AndroidStudioProjects\Lab3b_DangerousApp\app\src\main\AndroidManifest.xml:43:27-74
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\15890\AndroidStudioProjects\Lab3b_DangerousApp\app\src\main\AndroidManifest.xml:46:13-50:29

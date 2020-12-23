@@ -1,0 +1,79 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\15890\AndroidStudioProjects\Lab3a_MyBrowser\app\src\main\AndroidManifest.xml:2:1-42:12
+INJECTED from C:\Users\15890\AndroidStudioProjects\Lab3a_MyBrowser\app\src\main\AndroidManifest.xml:2:1-42:12
+INJECTED from C:\Users\15890\AndroidStudioProjects\Lab3a_MyBrowser\app\src\main\AndroidManifest.xml:2:1-42:12
+INJECTED from C:\Users\15890\AndroidStudioProjects\Lab3a_MyBrowser\app\src\main\AndroidManifest.xml:2:1-42:12
+INJECTED from C:\Users\15890\AndroidStudioProjects\Lab3a_MyBrowser\app\src\main\AndroidManifest.xml:2:1-42:12
+INJECTED from C:\Users\15890\AndroidStudioProjects\Lab3a_MyBrowser\app\src\main\AndroidManifest.xml:2:1-42:12
+INJECTED from C:\Users\15890\AndroidStudioProjects\Lab3a_MyBrowser\app\src\main\AndroidManifest.xml:2:1-42:12
+	package
+		ADDED from C:\Users\15890\AndroidStudioProjects\Lab3a_MyBrowser\app\src\main\AndroidManifest.xml:4:5-47
+		INJECTED from C:\Users\15890\AndroidStudioProjects\Lab3a_MyBrowser\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\15890\AndroidStudioProjects\Lab3a_MyBrowser\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\15890\AndroidStudioProjects\Lab3a_MyBrowser\app\src\main\AndroidManifest.xml:6:5-30
+		INJECTED from C:\Users\15890\AndroidStudioProjects\Lab3a_MyBrowser\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\15890\AndroidStudioProjects\Lab3a_MyBrowser\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\15890\AndroidStudioProjects\Lab3a_MyBrowser\app\src\main\AndroidManifest.xml:3:5-51
+	xmlns:android
+		ADDED from C:\Users\15890\AndroidStudioProjects\Lab3a_MyBrowser\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from C:\Users\15890\AndroidStudioProjects\Lab3a_MyBrowser\app\src\main\AndroidManifest.xml:5:5-28
+		INJECTED from C:\Users\15890\AndroidStudioProjects\Lab3a_MyBrowser\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\15890\AndroidStudioProjects\Lab3a_MyBrowser\app\src\main\AndroidManifest.xml
+uses-sdk
+ADDED from C:\Users\15890\AndroidStudioProjects\Lab3a_MyBrowser\app\src\main\AndroidManifest.xml:8:5-10:41
+INJECTED from C:\Users\15890\AndroidStudioProjects\Lab3a_MyBrowser\app\src\main\AndroidManifest.xml:8:5-10:41
+INJECTED from C:\Users\15890\AndroidStudioProjects\Lab3a_MyBrowser\app\src\main\AndroidManifest.xml:8:5-10:41
+INJECTED from C:\Users\15890\AndroidStudioProjects\Lab3a_MyBrowser\app\src\main\AndroidManifest.xml:8:5-10:41
+INJECTED from C:\Users\15890\AndroidStudioProjects\Lab3a_MyBrowser\app\src\main\AndroidManifest.xml:8:5-10:41
+	android:targetSdkVersion
+		ADDED from C:\Users\15890\AndroidStudioProjects\Lab3a_MyBrowser\app\src\main\AndroidManifest.xml:10:9-38
+		INJECTED from C:\Users\15890\AndroidStudioProjects\Lab3a_MyBrowser\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\15890\AndroidStudioProjects\Lab3a_MyBrowser\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from C:\Users\15890\AndroidStudioProjects\Lab3a_MyBrowser\app\src\main\AndroidManifest.xml:9:9-35
+		INJECTED from C:\Users\15890\AndroidStudioProjects\Lab3a_MyBrowser\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\15890\AndroidStudioProjects\Lab3a_MyBrowser\app\src\main\AndroidManifest.xml
+application
+ADDED from C:\Users\15890\AndroidStudioProjects\Lab3a_MyBrowser\app\src\main\AndroidManifest.xml:12:5-40:19
+	android:label
+		ADDED from C:\Users\15890\AndroidStudioProjects\Lab3a_MyBrowser\app\src\main\AndroidManifest.xml:15:9-41
+	android:icon
+		ADDED from C:\Users\15890\AndroidStudioProjects\Lab3a_MyBrowser\app\src\main\AndroidManifest.xml:14:9-45
+	android:allowBackup
+		ADDED from C:\Users\15890\AndroidStudioProjects\Lab3a_MyBrowser\app\src\main\AndroidManifest.xml:13:9-35
+	android:theme
+		ADDED from C:\Users\15890\AndroidStudioProjects\Lab3a_MyBrowser\app\src\main\AndroidManifest.xml:16:9-40
+activity#course.labs.intentslab.mybrowser.MyBrowserActivity
+ADDED from C:\Users\15890\AndroidStudioProjects\Lab3a_MyBrowser\app\src\main\AndroidManifest.xml:17:9-39:20
+	android:label
+		ADDED from C:\Users\15890\AndroidStudioProjects\Lab3a_MyBrowser\app\src\main\AndroidManifest.xml:19:13-45
+	android:name
+		ADDED from C:\Users\15890\AndroidStudioProjects\Lab3a_MyBrowser\app\src\main\AndroidManifest.xml:18:13-46
+intent-filter#action:name:android.intent.action.MAIN+action:name:android.intent.action.VIEW+category:name:android.intent.category.DEFAULT+category:name:android.intent.category.LAUNCHER+data:scheme:http
+ADDED from C:\Users\15890\AndroidStudioProjects\Lab3a_MyBrowser\app\src\main\AndroidManifest.xml:20:13-33:29
+	tools:ignore
+		ADDED from C:\Users\15890\AndroidStudioProjects\Lab3a_MyBrowser\app\src\main\AndroidManifest.xml:20:28-58
+action#android.intent.action.MAIN
+ADDED from C:\Users\15890\AndroidStudioProjects\Lab3a_MyBrowser\app\src\main\AndroidManifest.xml:22:17-69
+	android:name
+		ADDED from C:\Users\15890\AndroidStudioProjects\Lab3a_MyBrowser\app\src\main\AndroidManifest.xml:22:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\15890\AndroidStudioProjects\Lab3a_MyBrowser\app\src\main\AndroidManifest.xml:23:17-77
+	android:name
+		ADDED from C:\Users\15890\AndroidStudioProjects\Lab3a_MyBrowser\app\src\main\AndroidManifest.xml:23:27-74
+action#android.intent.action.VIEW
+ADDED from C:\Users\15890\AndroidStudioProjects\Lab3a_MyBrowser\app\src\main\AndroidManifest.xml:26:17-73
+	android:name
+		ADDED from C:\Users\15890\AndroidStudioProjects\Lab3a_MyBrowser\app\src\main\AndroidManifest.xml:26:29-70
+category#android.intent.category.DEFAULT
+ADDED from C:\Users\15890\AndroidStudioProjects\Lab3a_MyBrowser\app\src\main\AndroidManifest.xml:27:17-78
+	android:name
+		ADDED from C:\Users\15890\AndroidStudioProjects\Lab3a_MyBrowser\app\src\main\AndroidManifest.xml:27:29-75
+data
+ADDED from C:\Users\15890\AndroidStudioProjects\Lab3a_MyBrowser\app\src\main\AndroidManifest.xml:28:17-53
+	android:scheme
+		ADDED from C:\Users\15890\AndroidStudioProjects\Lab3a_MyBrowser\app\src\main\AndroidManifest.xml:28:29-50

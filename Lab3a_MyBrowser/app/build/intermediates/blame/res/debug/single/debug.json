@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\15890\\AndroidStudioProjects\\Lab3a_MyBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\15890\\AndroidStudioProjects\\Lab3a_MyBrowser\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\15890\\AndroidStudioProjects\\Lab3a_MyBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\15890\\AndroidStudioProjects\\Lab3a_MyBrowser\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\15890\\AndroidStudioProjects\\Lab3a_MyBrowser\\app\\build\\intermediates\\res\\merged\\debug\\layout_my_browser_activity.xml.flat",
+        "source": "C:\\Users\\15890\\AndroidStudioProjects\\Lab3a_MyBrowser\\app\\src\\main\\res\\layout\\my_browser_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\15890\\AndroidStudioProjects\\Lab3a_MyBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\15890\\AndroidStudioProjects\\Lab3a_MyBrowser\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    }
+]

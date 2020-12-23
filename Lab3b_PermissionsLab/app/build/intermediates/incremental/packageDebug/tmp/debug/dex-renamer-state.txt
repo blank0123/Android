@@ -1,0 +1,7 @@
+#Sat Apr 04 20:59:51 CST 2020
+base.0=C\:\\Users\\15890\\AndroidStudioProjects\\Lab3b_PermissionsLab\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\out\\classes.dex
+path.1=classes.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=C\:\\Users\\15890\\AndroidStudioProjects\\Lab3b_PermissionsLab\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\out\\classes.dex

@@ -1,0 +1,45 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\15890\\AndroidStudioProjects\\Lab3c_FragmentsLab\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\15890\\AndroidStudioProjects\\Lab3c_FragmentsLab\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "6,15",
+                        "startColumns": "4,4",
+                        "startOffsets": "186,510",
+                        "endLines": "12,17",
+                        "endColumns": "12,12",
+                        "endOffsets": "472,665"
+                    },
+                    "to": {
+                        "startLines": "4,11",
+                        "startColumns": "4,4",
+                        "startOffsets": "165,456",
+                        "endLines": "10,13",
+                        "endColumns": "12,12",
+                        "endOffsets": "451,611"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\15890\\AndroidStudioProjects\\Lab3c_FragmentsLab\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "3,4",
+                        "startColumns": "4,4",
+                        "startOffsets": "56,106",
+                        "endColumns": "49,59",
+                        "endOffsets": "101,161"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,105",
+                        "endColumns": "49,59",
+                        "endOffsets": "100,160"
+                    }
+                }
+            ]
+        }
+    ]
+}

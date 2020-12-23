@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\15890\\AndroidStudioProjects\\lab3a_IntentsLab\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\15890\\AndroidStudioProjects\\lab3a_IntentsLab\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\15890\\AndroidStudioProjects\\lab3a_IntentsLab\\app\\build\\intermediates\\res\\merged\\debug\\layout_explicitly_loaded_activity.xml.flat",
+        "source": "C:\\Users\\15890\\AndroidStudioProjects\\lab3a_IntentsLab\\app\\src\\main\\res\\layout\\explicitly_loaded_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\15890\\AndroidStudioProjects\\lab3a_IntentsLab\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\15890\\AndroidStudioProjects\\lab3a_IntentsLab\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\15890\\AndroidStudioProjects\\lab3a_IntentsLab\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\15890\\AndroidStudioProjects\\lab3a_IntentsLab\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\15890\\AndroidStudioProjects\\lab3a_IntentsLab\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\15890\\AndroidStudioProjects\\lab3a_IntentsLab\\app\\src\\main\\res\\drawable-ldpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\15890\\AndroidStudioProjects\\lab3a_IntentsLab\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_loader_activity.xml.flat",
+        "source": "C:\\Users\\15890\\AndroidStudioProjects\\lab3a_IntentsLab\\app\\src\\main\\res\\layout\\activity_loader_activity.xml"
+    }
+]

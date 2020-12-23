@@ -1,0 +1,85 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="course.labs.dangerousapp"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+7-->C:\Users\15890\AndroidStudioProjects\Lab3b_DangerousApp\app\src\main\AndroidManifest.xml:7:5-9:41
+8        android:minSdkVersion="21"
+8-->C:\Users\15890\AndroidStudioProjects\Lab3b_DangerousApp\app\src\main\AndroidManifest.xml:8:9-35
+9        android:targetSdkVersion="29" />
+9-->C:\Users\15890\AndroidStudioProjects\Lab3b_DangerousApp\app\src\main\AndroidManifest.xml:9:9-38
+10
+11    <!--
+12          TODO - Using a permission element,
+13          define a custom permission with name
+14    		  "course.labs.permissions.DANGEROUS_ACTIVITY_PERM" 
+15          and "dangerous" protection level.
+16    -->
+17    <permission
+17-->C:\Users\15890\AndroidStudioProjects\Lab3b_DangerousApp\app\src\main\AndroidManifest.xml:17:5-18:47
+18        android:name="course.labs.permissions.DANGEROUS_ACTIVITY_PERM"
+18-->C:\Users\15890\AndroidStudioProjects\Lab3b_DangerousApp\app\src\main\AndroidManifest.xml:17:17-79
+19        android:protectionLevel="dangerous" />
+19-->C:\Users\15890\AndroidStudioProjects\Lab3b_DangerousApp\app\src\main\AndroidManifest.xml:18:9-44
+20
+21    <application
+21-->C:\Users\15890\AndroidStudioProjects\Lab3b_DangerousApp\app\src\main\AndroidManifest.xml:20:5-52:19
+22        android:allowBackup="true"
+22-->C:\Users\15890\AndroidStudioProjects\Lab3b_DangerousApp\app\src\main\AndroidManifest.xml:21:9-35
+23        android:debuggable="true"
+24        android:icon="@drawable/ic_launcher"
+24-->C:\Users\15890\AndroidStudioProjects\Lab3b_DangerousApp\app\src\main\AndroidManifest.xml:22:9-45
+25        android:label="@string/app_name"
+25-->C:\Users\15890\AndroidStudioProjects\Lab3b_DangerousApp\app\src\main\AndroidManifest.xml:23:9-41
+26        android:testOnly="true"
+27        android:theme="@style/AppTheme" >
+27-->C:\Users\15890\AndroidStudioProjects\Lab3b_DangerousApp\app\src\main\AndroidManifest.xml:24:9-40
+28
+29        <!-- TODO - enforce the custom permission on this Activity -->
+30
+31        <activity
+31-->C:\Users\15890\AndroidStudioProjects\Lab3b_DangerousApp\app\src\main\AndroidManifest.xml:28:9-51:20
+32            android:name="course.labs.dangerousapp.DangerousActivity"
+32-->C:\Users\15890\AndroidStudioProjects\Lab3b_DangerousApp\app\src\main\AndroidManifest.xml:29:13-46
+33            android:label="@string/app_name" >
+33-->C:\Users\15890\AndroidStudioProjects\Lab3b_DangerousApp\app\src\main\AndroidManifest.xml:30:13-45
+34
+35            <!--
+36                 TODO - add additional intent filter info so that this Activity
+37                  will respond to an Implicit Intent with the action
+38                  "course.labs.permissions.DANGEROUS_ACTIVITY"
+39            -->
+40            <intent-filter>
+40-->C:\Users\15890\AndroidStudioProjects\Lab3b_DangerousApp\app\src\main\AndroidManifest.xml:37:13-44:29
+41                <action android:name="course.labs.permissions.DANGEROUS_ACTIVITY" />
+41-->C:\Users\15890\AndroidStudioProjects\Lab3b_DangerousApp\app\src\main\AndroidManifest.xml:38:17-85
+41-->C:\Users\15890\AndroidStudioProjects\Lab3b_DangerousApp\app\src\main\AndroidManifest.xml:38:25-82
+42
+43                <category android:name="android.intent.category.DEFAULT" />
+43-->C:\Users\15890\AndroidStudioProjects\Lab3b_DangerousApp\app\src\main\AndroidManifest.xml:40:17-76
+43-->C:\Users\15890\AndroidStudioProjects\Lab3b_DangerousApp\app\src\main\AndroidManifest.xml:40:27-73
+44
+45                <action android:name="android.intent.action.MAIN" />
+45-->C:\Users\15890\AndroidStudioProjects\Lab3b_DangerousApp\app\src\main\AndroidManifest.xml:41:17-69
+45-->C:\Users\15890\AndroidStudioProjects\Lab3b_DangerousApp\app\src\main\AndroidManifest.xml:41:25-66
+46
+47                <category android:name="android.intent.category.LAUNCHER" />
+47-->C:\Users\15890\AndroidStudioProjects\Lab3b_DangerousApp\app\src\main\AndroidManifest.xml:43:17-77
+47-->C:\Users\15890\AndroidStudioProjects\Lab3b_DangerousApp\app\src\main\AndroidManifest.xml:43:27-74
+48            </intent-filter>
+49            <intent-filter>
+49-->C:\Users\15890\AndroidStudioProjects\Lab3b_DangerousApp\app\src\main\AndroidManifest.xml:46:13-50:29
+50                <action android:name="android.intent.action.MAIN" />
+50-->C:\Users\15890\AndroidStudioProjects\Lab3b_DangerousApp\app\src\main\AndroidManifest.xml:41:17-69
+50-->C:\Users\15890\AndroidStudioProjects\Lab3b_DangerousApp\app\src\main\AndroidManifest.xml:41:25-66
+51
+52                <category android:name="android.intent.category.LAUNCHER" />
+52-->C:\Users\15890\AndroidStudioProjects\Lab3b_DangerousApp\app\src\main\AndroidManifest.xml:43:17-77
+52-->C:\Users\15890\AndroidStudioProjects\Lab3b_DangerousApp\app\src\main\AndroidManifest.xml:43:27-74
+53            </intent-filter>
+54        </activity>
+55    </application>
+56
+57</manifest>
