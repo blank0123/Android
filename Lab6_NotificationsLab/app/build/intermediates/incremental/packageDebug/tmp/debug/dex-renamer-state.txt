@@ -1,0 +1,4 @@
+#Tue Apr 28 23:19:23 CST 2020
+base.0=C\:\\Users\\15890\\AndroidStudioProjects\\Lab6_NotificationsLab\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

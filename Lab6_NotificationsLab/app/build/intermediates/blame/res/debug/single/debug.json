@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "C:\\Users\\15890\\AndroidStudioProjects\\Lab6_NotificationsLab\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\15890\\AndroidStudioProjects\\Lab6_NotificationsLab\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\15890\\AndroidStudioProjects\\Lab6_NotificationsLab\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\15890\\AndroidStudioProjects\\Lab6_NotificationsLab\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\15890\\AndroidStudioProjects\\Lab6_NotificationsLab\\app\\build\\intermediates\\res\\merged\\debug\\layout_custom_notification.xml.flat",
+        "source": "C:\\Users\\15890\\AndroidStudioProjects\\Lab6_NotificationsLab\\app\\src\\main\\res\\layout\\custom_notification.xml"
+    },
+    {
+        "merged": "C:\\Users\\15890\\AndroidStudioProjects\\Lab6_NotificationsLab\\app\\build\\intermediates\\res\\merged\\debug\\layout_feed.xml.flat",
+        "source": "C:\\Users\\15890\\AndroidStudioProjects\\Lab6_NotificationsLab\\app\\src\\main\\res\\layout\\feed.xml"
+    },
+    {
+        "merged": "C:\\Users\\15890\\AndroidStudioProjects\\Lab6_NotificationsLab\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\15890\\AndroidStudioProjects\\Lab6_NotificationsLab\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\15890\\AndroidStudioProjects\\Lab6_NotificationsLab\\app\\build\\intermediates\\res\\merged\\debug\\raw_tswift.txt.flat",
+        "source": "C:\\Users\\15890\\AndroidStudioProjects\\Lab6_NotificationsLab\\app\\src\\main\\res\\raw\\tswift.txt"
+    },
+    {
+        "merged": "C:\\Users\\15890\\AndroidStudioProjects\\Lab6_NotificationsLab\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\15890\\AndroidStudioProjects\\Lab6_NotificationsLab\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\15890\\AndroidStudioProjects\\Lab6_NotificationsLab\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_test_front_end.xml.flat",
+        "source": "C:\\Users\\15890\\AndroidStudioProjects\\Lab6_NotificationsLab\\app\\src\\main\\res\\layout\\activity_test_front_end.xml"
+    },
+    {
+        "merged": "C:\\Users\\15890\\AndroidStudioProjects\\Lab6_NotificationsLab\\app\\build\\intermediates\\res\\merged\\debug\\raw_rblack.txt.flat",
+        "source": "C:\\Users\\15890\\AndroidStudioProjects\\Lab6_NotificationsLab\\app\\src\\main\\res\\raw\\rblack.txt"
+    },
+    {
+        "merged": "C:\\Users\\15890\\AndroidStudioProjects\\Lab6_NotificationsLab\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\15890\\AndroidStudioProjects\\Lab6_NotificationsLab\\app\\src\\main\\res\\drawable-ldpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\15890\\AndroidStudioProjects\\Lab6_NotificationsLab\\app\\build\\intermediates\\res\\merged\\debug\\raw_lgaga.txt.flat",
+        "source": "C:\\Users\\15890\\AndroidStudioProjects\\Lab6_NotificationsLab\\app\\src\\main\\res\\raw\\lgaga.txt"
+    }
+]
